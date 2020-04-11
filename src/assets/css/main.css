@@ -3098,6 +3098,7 @@ img {
   margin-bottom: 20px;
   -webkit-box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
           box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
+  background-color: #f2f3f7 !important;
 }
 
 .card .card-body {
@@ -5055,3 +5056,15 @@ a.credit {
 /* .httpClient{
   margin-top: 35px !important ;
 } */
+
+.cardBackGroundClr{
+  background-color: #f2f3f7 !important;
+}
+
+.marginPhone{
+  margin-left: 8px;
+}
+
+.fontCursive{
+  font-family: Times New Roman !important;
+}
