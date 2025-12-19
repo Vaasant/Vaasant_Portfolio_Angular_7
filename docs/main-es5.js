@@ -312,7 +312,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "div", 6);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](18, "Basic Information");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](18, "Contact Me");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -980,7 +980,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "p");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](20, " Designed and developed scalable full-stack enterprise solutions using Angualr 18, React, Spring Boot, PostgreSQL, and AWS, improving system performance, efficiency, and security for large engineering teams and business operations. Led cloud migration and automation initiatives leveraging Python, AWS Lambda, Docker, and MicroFrontend architectures, delivering high-quality, maintainable code with robust testing and monitoring. ");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](20, " Designed and developed scalable full-stack enterprise solutions using Angular 18, React, Spring Boot, PostgreSQL, and AWS, improving system performance, efficiency, and security for large engineering teams and business operations. Led cloud migration and automation initiatives leveraging Python, AWS Lambda, Docker, and MicroFrontend architectures, delivering high-quality, maintainable code with robust testing and monitoring. ");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
